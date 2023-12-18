@@ -1,3 +1,4 @@
 # Projects
  
-oi
+Este foi um arquivo desenvolvido no trabalho final da minha cadeira de introdução a programação, eu e minha equipe utilizamos da linguagem C para montar um Dominó, jogo muito popular em nosso país. Ele nada mais é do que um jogo de turnos, onde cada jogador começa com 7 peças e a cada rodada pode escolher jogar uma peça, caso tenha alguma disponível, comprar uma peça, caso não tenha, ou ainda pular a vez caso nenhuma das duas alternativas anteriores tenha sido atendida. O próprio código disponibiliza a opção de explicar as regras, por isso não irei me ater a elas.
+O código funciona dentro de alguns loops, o principal é o do Menu inicial, que irá direcionar o jogador para um novo jogo, caso nenhum jogo anterior tenha sido salvo ou caso deseje começar de novo,ou para carregar um jogo salvo em um arquivo externo chamado DOMINO.txt, caso tenha salvo, além disso, também há a opção de expôr as regras ou ainda sair para a Área de Trabalho.
